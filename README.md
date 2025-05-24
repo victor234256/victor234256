@@ -10,7 +10,7 @@ I'm a Software Engineer, Content Creator, and STEM Educator who currently works 
 - 💡 Fun fact: I am a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
 - 🌱 Programming language: CSS, Tailwind, Javascript, Typescript, React, Next JS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level), STEM Instructor.
+- 💼 Job interests: Software Engineer, Front end Engineer.
 - 📫 You can [view my resume](#) and contact me by emailing mailtocharity.jv.jvo@gmail.com.
 
 ---
